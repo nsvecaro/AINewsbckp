@@ -1,2 +1,2 @@
 # AINewsbckp
-backup
+backup sa profesoricom
